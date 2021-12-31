@@ -24,5 +24,5 @@ Dataset memiliki jumlah total sebanyak 2500 image yang terdiri atas 3 kelas deng
 ## Authors
 
 Kontributor dalam projek ini yaitu :
-* Imam Ismail Tambili, 202010370311403, 
+* Imam Ismail Tambili, 202010370311403 
 * Andy Aji Saputra, 2019103700311050
